@@ -1,0 +1,6 @@
+{
+  "name": "Kakeibo Kiyowo - AI Financial Planner",
+  "description": "Aplikasi manajemen keuangan pribadi pintar dengan maskot chibi kiyowo, pemindai struk AI, anggaran kustom, dan laporan visual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
